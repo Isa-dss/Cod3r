@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "Xioami Mi Lite 11",
+      "price": "2000",
+      "id": 1
+    },
+    {
+      "name": "Notebook Dell i7 ",
+      "price": "4500",
+      "id": 2
+    }
+  ]
+}
